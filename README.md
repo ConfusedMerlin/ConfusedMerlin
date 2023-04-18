@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ConfusedMerlin
 - 👀 I’m interested in java programming (and a bit python) and anything that happens in outer space
-- 🌱 I’m currently learning node.js, sadly
+- 🌱 I’m currently trying to avoid getting put in a critically unsatisfying project at work
 - 💞️ I’m looking to collaborate on nothing, for now
 - 📫 How to reach me: better don't
 
